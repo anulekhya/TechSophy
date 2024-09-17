@@ -1,1 +1,2 @@
-•	Created a travel planning agent that suggests hotels, flights and day-wise itineraries using meta-llama
+- This project is a travel planner built using the meta-llama model.
+- Generates recommendations for hotels, flights, and day-wise itineraries tailored to user preferences.
